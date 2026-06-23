@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\05_CrearSP_ABM_GestionParques.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|solutionrelative:05_CrearSP_ABM_GestionParques.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\Test_ABM_GestionParques.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|solutionrelative:Test_ABM_GestionParques.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\03_CrearSP_ABM_Concesiones.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|solutionrelative:03_CrearSP_ABM_Concesiones.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\04_CrearSP_ABM_Ventas.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|solutionrelative:04_CrearSP_ABM_Ventas.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\Test_ABM_Concesiones.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|solutionrelative:Test_ABM_Concesiones.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\Test_RegistrarVenta.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|solutionrelative:Test_RegistrarVenta.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\Test_ABM_Personal.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|solutionrelative:Test_ABM_Personal.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\Test_ABM_Ventas.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|solutionrelative:Test_ABM_Ventas.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\06_CrearSP_ABM_Personal.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|solutionrelative:06_CrearSP_ABM_Personal.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\02_CrearTablas.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|solutionrelative:02_CrearTablas.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\07_CrearSP_Registrar_Venta.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|solutionrelative:07_CrearSP_Registrar_Venta.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\01_CrearBD.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{F5D17136-72FA-0E9B-8B92-F60B3D46BFF3}|ScriptsParquesNacionales.ssmssqlproj|solutionrelative:01_CrearBD.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Test_ABM_Ventas.sql - (local)\\SQL2025.ParquesNacionales (sa (53))",
+              "DocumentMoniker": "D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\Test_ABM_Ventas.sql",
+              "RelativeDocumentMoniker": "Test_ABM_Ventas.sql",
+              "ToolTip": "Test_ABM_Ventas.sql - (local)\\SQL2025.ParquesNacionales (sa (53))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-23T02:30:15.942Z",
+              "EditorCaption": " - (local)\\SQL2025.ParquesNacionales (sa (53))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Test_ABM_Personal.sql - (local)\\SQL2025.ParquesNacionales (sa (52))",
+              "DocumentMoniker": "D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\Test_ABM_Personal.sql",
+              "RelativeDocumentMoniker": "Test_ABM_Personal.sql",
+              "ToolTip": "Test_ABM_Personal.sql - (local)\\SQL2025.ParquesNacionales (sa (52))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-23T02:30:09.921Z",
+              "EditorCaption": " - (local)\\SQL2025.ParquesNacionales (sa (52))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test_ABM_GestionParques.sql - (local)\\SQL2025.ParquesNacionales (sa (86))",
+              "DocumentMoniker": "D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\Test_ABM_GestionParques.sql",
+              "RelativeDocumentMoniker": "Test_ABM_GestionParques.sql",
+              "ToolTip": "Test_ABM_GestionParques.sql - (local)\\SQL2025.ParquesNacionales (sa (86))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-23T02:29:57.096Z",
+              "EditorCaption": " - (local)\\SQL2025.ParquesNacionales (sa (86))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test_ABM_Concesiones.sql - (local)\\SQL2025.master (sa (72))",
+              "DocumentMoniker": "D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\Test_ABM_Concesiones.sql",
+              "RelativeDocumentMoniker": "Test_ABM_Concesiones.sql",
+              "ToolTip": "Test_ABM_Concesiones.sql - (local)\\SQL2025.master (sa (72))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-23T02:29:47.228Z",
+              "EditorCaption": " - (local)\\SQL2025.master (sa (72))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Test_RegistrarVenta.sql - (local)\\SQL2025.master (sa (51))",
+              "DocumentMoniker": "D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\Test_RegistrarVenta.sql",
+              "RelativeDocumentMoniker": "Test_RegistrarVenta.sql",
+              "ToolTip": "Test_RegistrarVenta.sql - (local)\\SQL2025.master (sa (51))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-23T02:15:14.047Z",
+              "EditorCaption": " - (local)\\SQL2025.master (sa (51))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "01_CrearBD.sql - (local)\\SQL2025.ParquesNacionales (sa (54))",
+              "DocumentMoniker": "D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\01_CrearBD.sql",
+              "RelativeDocumentMoniker": "01_CrearBD.sql",
+              "ToolTip": "01_CrearBD.sql - (local)\\SQL2025.ParquesNacionales (sa (54))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-23T02:29:21.325Z",
+              "EditorCaption": " - (local)\\SQL2025.ParquesNacionales (sa (54))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "02_CrearTablas.sql - (local)\\SQL2025.ParquesNacionales (sa (80))",
+              "DocumentMoniker": "D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\02_CrearTablas.sql",
+              "RelativeDocumentMoniker": "02_CrearTablas.sql",
+              "ToolTip": "02_CrearTablas.sql - (local)\\SQL2025.ParquesNacionales (sa (80))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-23T02:07:14.539Z",
+              "EditorCaption": " - (local)\\SQL2025.ParquesNacionales (sa (80))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "03_CrearSP_ABM_Concesiones.sql - (local)\\SQL2025.ParquesNacionales (sa (100))",
+              "DocumentMoniker": "D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\03_CrearSP_ABM_Concesiones.sql",
+              "RelativeDocumentMoniker": "03_CrearSP_ABM_Concesiones.sql",
+              "ToolTip": "03_CrearSP_ABM_Concesiones.sql - (local)\\SQL2025.ParquesNacionales (sa (100))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-23T02:38:21.746Z",
+              "EditorCaption": " - (local)\\SQL2025.ParquesNacionales (sa (100))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "04_CrearSP_ABM_Ventas.sql - (local)\\SQL2025.ParquesNacionales (sa (82))",
+              "DocumentMoniker": "D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\04_CrearSP_ABM_Ventas.sql",
+              "RelativeDocumentMoniker": "04_CrearSP_ABM_Ventas.sql",
+              "ToolTip": "04_CrearSP_ABM_Ventas.sql - (local)\\SQL2025.ParquesNacionales (sa (82))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-23T02:08:39.313Z",
+              "EditorCaption": " - (local)\\SQL2025.ParquesNacionales (sa (82))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "05_CrearSP_ABM_GestionParques.sql - (local)\\SQL2025.ParquesNacionales (sa (99))",
+              "DocumentMoniker": "D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\05_CrearSP_ABM_GestionParques.sql",
+              "RelativeDocumentMoniker": "05_CrearSP_ABM_GestionParques.sql",
+              "ToolTip": "05_CrearSP_ABM_GestionParques.sql - (local)\\SQL2025.ParquesNacionales (sa (99))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-23T02:10:11.949Z",
+              "EditorCaption": " - (local)\\SQL2025.ParquesNacionales (sa (99))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "06_CrearSP_ABM_Personal.sql - (local)\\SQL2025.ParquesNacionales (sa (76))",
+              "DocumentMoniker": "D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\06_CrearSP_ABM_Personal.sql",
+              "RelativeDocumentMoniker": "06_CrearSP_ABM_Personal.sql",
+              "ToolTip": "06_CrearSP_ABM_Personal.sql - (local)\\SQL2025.ParquesNacionales (sa (76))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-23T02:12:03.57Z",
+              "EditorCaption": " - (local)\\SQL2025.ParquesNacionales (sa (76))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "07_CrearSP_Registrar_Venta.sql - (local)\\SQL2025.ParquesNacionales (sa (90))",
+              "DocumentMoniker": "D:\\UNLaM\\3641-Bases de datos aplicadas\\TP GRUPAL\\ScriptsParquesNacionales\\07_CrearSP_Registrar_Venta.sql",
+              "RelativeDocumentMoniker": "07_CrearSP_Registrar_Venta.sql",
+              "ToolTip": "07_CrearSP_Registrar_Venta.sql - (local)\\SQL2025.ParquesNacionales (sa (90))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-23T02:14:38.358Z",
+              "EditorCaption": " - (local)\\SQL2025.ParquesNacionales (sa (90))"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="ScriptsParquesNacionales">
+  <Items>
+    <LogicalFolder Name="Conexiones" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="(local)\SQL2025:sa">
+          <Created>2026-06-11T16:30:06.3179749-03:00</Created>
+          <Type>SQL</Type>
+          <Server>(local)\SQL2025</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Consulta</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Consultas" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01_CrearBD.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2025:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2025</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>01_CrearBD.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02_CrearTablas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2025:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2025</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>02_CrearTablas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03_CrearSP_ABM_GestionParques.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2025:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2025</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>03_CrearSP_ABM_GestionParques.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03_Test_ABM_GestionParques.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2025:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2025</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>03_Test_ABM_GestionParques.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04_CrearSP_ABM_Personal.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2025:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2025</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>04_CrearSP_ABM_Personal.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04_Test_ABM_Personal.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2025:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2025</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>04_Test_ABM_Personal.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05_CrearSP_ABM_Concesiones.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2025:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2025</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>05_CrearSP_ABM_Concesiones.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05_Test_ABM_Concesiones.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2025:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2025</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>05_Test_ABM_Concesiones.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06_CrearSP_ABM_Ventas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2025:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2025</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>06_CrearSP_ABM_Ventas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06_Test_ABM_Ventas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2025:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2025</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>06_Test_ABM_Ventas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07_CrearSP_Registrar_Venta.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2025:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2025</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>07_CrearSP_Registrar_Venta.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07_Test_RegistrarVenta.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2025:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2025</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>07_Test_RegistrarVenta.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Varios" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
