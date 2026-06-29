@@ -6,6 +6,7 @@
 -- FECHA: Junio 2026
 -- OBJETIVO/DESCRIPCION: Desbloquea la seguridad nativa de SQL Server y habilita 'Ole Automation'. 
 -- Sin esto, la base de datos no tiene permisos para salir a Internet y las APIs van a fallar.
+--
 ================================================================================================= */
 
 EXEC sp_configure 'show advanced options', 1;

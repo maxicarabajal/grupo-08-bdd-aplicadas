@@ -5,6 +5,7 @@
 -- INTEGRANTES: Kevin Maykel Valverde Pinedo, Maximo Carabajal, Nicolás Veliz Fandiño,Leonardo Nicolas Ramirez
 -- FECHA: Junio 2026
 -- OBJETIVO/DESCRIPCION: creacion de tabla historial_importaciones
+--
 ================================================================================================= */
 USE ParquesNacionales;
 GO
