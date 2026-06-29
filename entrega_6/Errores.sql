@@ -16,7 +16,7 @@ BEGIN
 END
 GO
 
--- 2. TABLA DE DE ERRORES (Comun para todos los datasets)
+-- 2. TABLA DE ERRORES (Comun para todos los datasets)
 IF OBJECT_ID('Importacion.Registro_Errores', 'U') IS NOT NULL DROP TABLE Importacion.Registro_Errores;
 GO
 CREATE TABLE Importacion.Registro_Errores (
